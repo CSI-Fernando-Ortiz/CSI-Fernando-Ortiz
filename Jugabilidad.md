@@ -43,9 +43,9 @@
 ### el mundo de mi juego son unas montañas de paperwave.
 
 
-<img src=""
+<img src="pong.png"
      title="Colegio San Ignacio"
-     width="20%"
-     height="20%" />
+     width="50%"
+     height="50%" />
      
-     <br> 
+   
