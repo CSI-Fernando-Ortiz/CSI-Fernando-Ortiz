@@ -11,6 +11,8 @@
 <h2 align="center" > Boxing  Fan Page!</h2>
 
 <br>
+<br>
+
 
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
     Saul canelo alvarez is a mexican proffessional boxer. He was born in July 18, 1990 , Guadalajara, Mexico. He turned pro at 15 years old. His boxing record is 57  wins 1 loss and 2 draws. he has 2 daughters and 1 son. He is married to Fernanda Gómez.
@@ -23,9 +25,14 @@
             title="Pestily"
             width="50%"
             height="50%" 
-            />
+        />
+    <br>
+
 </div>
+<br>
+
   Canelo alvarez won versus caleb plant in November 6, 2021. With that win canelo is the sixth man to be a four-belt champion. He is the first mexican to be undisputed.He won the belt at 168 pounds or super middle weight category. His only loss was versus Floyd mayweather.He has won in 4 different weight divisions.
+<br>
 <br>
 
   
@@ -73,7 +80,11 @@
         <th>Years fighting</th>
         <td>16 yrs</td>
     </tr>
+    <br>
+<br>
+
 </table>
+<br>
 
 <div align="center">
     <img    src="https://wbcboxing.com/wp-content/uploads/canelo.jpg"
@@ -82,6 +93,8 @@
             height="50%" 
             />
 </div>
+<br>
+
    Canelo has won the Best Boxer ESPY Award that consists of an award given annually to the best boxer that year. Canelo currently is the holder of the WBA,WBO,WBC and WBO super middle weight.Also Canelo is consider the best boxer right now by many and has won againts 17 champions. Canelo is training for his possibly next fight versus Ilunga Makabu going up in weight.
 <br><br>
 
