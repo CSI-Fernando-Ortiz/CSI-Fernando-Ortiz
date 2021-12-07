@@ -13,7 +13,7 @@
 <br>
 
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
-    Saul canelo alvarez is a mexican proffessional boxer. He was born in July 18, 1990 , Guadalajara, Mexico. He turned pro at 15 years old. His boxing record is 57  wins 1 loss and 2 draws. 
+    Saul canelo alvarez is a mexican proffessional boxer. He was born in July 18, 1990 , Guadalajara, Mexico. He turned pro at 15 years old. His boxing record is 57  wins 1 loss and 2 draws. he has 2 daughters and 1 son.
 </p>
 
 <br>
@@ -25,7 +25,7 @@
             height="50%" 
             />
 </div>
-  Canelo alvarez won versus caleb plant in November 6, 2021. With that win canelo is the sixth man to be a four-belt champion. He is the first mexican to be undisputed.He won the belt at 168 pounds or super middle weight category.
+  Canelo alvarez won versus caleb plant in November 6, 2021. With that win canelo is the sixth man to be a four-belt champion. He is the first mexican to be undisputed.He won the belt at 168 pounds or super middle weight category. His only loss was versus Floyd mayweather.
 <br>
 
   
@@ -59,22 +59,22 @@
     </tr>
     <tr>
         <th>twitter</th>
-        <td><a href=@Canelo</td>
+        <td><a href=@Canelo<> @Canelo </a>
     </tr>
     <tr>
         <th>boxing record</th>
-        <td><a href="https://boxrec.com/en/proboxer/348759"> @canelo </a></td>
+        <td><a href="https://boxrec.com/en/proboxer/348759"> @Box Rec </a></td>
     </tr>
 </table>
 
 <div align="center">
-    <img    src=""
+    <img    src="https://wbcboxing.com/wp-content/uploads/canelo.jpg"
             title="canelo"
             width="50%"
             height="50%" 
             />
 </div>
-   sjmhdfgh.l.bkjjkhvghbbb,ftkghvghjgtygb
+   Canelo has won the Best Boxer ESPY Award,
 <br><br>
 
 <p>
