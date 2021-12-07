@@ -59,7 +59,7 @@
     </tr>
     <tr>
         <th>twitter</th>
-        <td><a href=@Canelo<> @Canelo </a>
+        <td><a href=@Canelo> @Canelo </a></td>
     </tr>
     <tr>
         <th>boxing record</th>
