@@ -25,7 +25,7 @@
             height="50%" 
             />
 </div>
-  Canelo alvarez won versus caleb plant in November 6, 2021. With that win canelo is the sixth man to be a four-belt champion. He is the first mexican to be undisputed.He won the belt at 168 pounds or super middle weight category. His only loss was versus Floyd mayweather.He has won in 
+  Canelo alvarez won versus caleb plant in November 6, 2021. With that win canelo is the sixth man to be a four-belt champion. He is the first mexican to be undisputed.He won the belt at 168 pounds or super middle weight category. His only loss was versus Floyd mayweather.He has won in 4 different weight divisions.
 <br>
 
   
