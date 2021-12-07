@@ -39,7 +39,8 @@
   
   
   
-<table>
+<div align="center">
+    <table>
     <tr>
         <th>Name</th>
         <td>Saul</td>
@@ -80,7 +81,7 @@
         <th>Years fighting</th>
         <td>16 yrs</td>
     </tr>
-    <br>
+    </div>
 <br>
 
 </table>
