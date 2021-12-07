@@ -13,7 +13,7 @@
 <br>
 
 <p style = "text-indent: 2cm; font-family: Comic Sans MS; font-size:110%">
-    Saul canelo alvarez is a mexican proffessional boxer. He was born in July 18, 1990 , Guadalajara, Mexico. He turned pro at 15 years old. His boxing record is 57  wins 1 loss and 2 draws. he has 2 daughters and 1 son.
+    Saul canelo alvarez is a mexican proffessional boxer. He was born in July 18, 1990 , Guadalajara, Mexico. He turned pro at 15 years old. His boxing record is 57  wins 1 loss and 2 draws. he has 2 daughters and 1 son. He is married to Fernanda Gómez.
 </p>
 
 <br>
@@ -25,7 +25,7 @@
             height="50%" 
             />
 </div>
-  Canelo alvarez won versus caleb plant in November 6, 2021. With that win canelo is the sixth man to be a four-belt champion. He is the first mexican to be undisputed.He won the belt at 168 pounds or super middle weight category. His only loss was versus Floyd mayweather.
+  Canelo alvarez won versus caleb plant in November 6, 2021. With that win canelo is the sixth man to be a four-belt champion. He is the first mexican to be undisputed.He won the belt at 168 pounds or super middle weight category. His only loss was versus Floyd mayweather.He has won in 
 <br>
 
   
