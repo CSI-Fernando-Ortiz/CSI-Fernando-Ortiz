@@ -65,6 +65,14 @@
         <th>boxing record</th>
         <td><a href="https://boxrec.com/en/proboxer/348759"> @Box Rec </a></td>
     </tr>
+    <tr>
+        <th>Knockouts</th>
+        <td>39 ko</td>
+    </tr>
+    <tr>
+        <th>Years fighting</th>
+        <td>16 yrs</td>
+    </tr>
 </table>
 
 <div align="center">
@@ -74,7 +82,7 @@
             height="50%" 
             />
 </div>
-   Canelo has won the Best Boxer ESPY Award,
+   Canelo has won the Best Boxer ESPY Award that consists of an award given annually to the best boxer that year. Canelo currently is the holder of the WBA,WBO,WBC and WBO super middle weight.Also Canelo is consider the best boxer right now by many and has won againts 17 champions. Canelo is training for his possibly next fight versus Ilunga Makabu going up in weight.
 <br><br>
 
 <p>
