@@ -2,7 +2,7 @@
 
 <div align="center">
     <img    src="https://images.daznservices.com/di/library/DAZN_News/6c/6b/pic-1-canelo-plant_1g174lz3k6ocu1p0markm3bh71.jpg?t=10385997&quality=60&h=450"
-            title="Pestily"
+            title="canelo"
             width="40%"
             height="40%" 
             />
@@ -28,7 +28,10 @@
   Canelo alvarez won versus caleb plant in November 6, 2021. With that win canelo is the sixth man to be a four-belt champion. He is the first mexican to be undisputed.He won the belt at 168 pounds or super middle weight category.
 <br>
 
-
+  
+  
+  
+  
 <table>
     <tr>
         <th>Name</th>
@@ -56,7 +59,7 @@
     </tr>
     <tr>
         <th>twitter</th>
-        <td>@Canelo</td>
+        <td><a href=@Canelo</td>
     </tr>
     <tr>
         <th>boxing record</th>
@@ -64,7 +67,14 @@
     </tr>
 </table>
 
-
+<div align="center">
+    <img    src=""
+            title="canelo"
+            width="50%"
+            height="50%" 
+            />
+</div>
+   sjmhdfgh.l.bkjjkhvghbbb,ftkghvghjgtygb
 <br><br>
 
 <p>
